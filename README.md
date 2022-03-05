@@ -329,3 +329,9 @@ https://github.com/
 ### Git command summary
 [Git Cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
+
+# Paper
+
+ [Hardware-in-the-loop simulation with dynamic partial FPGA reconfiguration applied to computer vision in ROS-based UAV](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9244863&tag=1
+)
+
